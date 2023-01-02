@@ -16,4 +16,4 @@ plt.show()
 
 
 
-# This code is a test file to see that matplotlib is working including outputting an image as named Figure_2.png, see files in the repo.
+# This code is a test file to see that matplotlib is working including outputting an image as named Figure_1.png, see files in the repo.
