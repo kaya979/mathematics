@@ -10,21 +10,21 @@ The reason to make this project is to track my development in Mathematics and As
 ###Technologies
 VSCode on a windows machines with WSL2 
 Python with matplotlib module
-
+neurokit2
 
 ## How to install stuff: 
 
 ### Install matplotlib:
 in terminal
-- check: python --version
-- check: pip -V 
-- pip install matplotlib
+- check: ```python --version```
+- check: ```pip -V ```
+- ```pip install matplotlib```
 - check if installed correctly 
-    - import matplotlib
-    - matplotlib.__version__
+    - ```import matplotlib```
+    - ```matplotlib.__version__```
 
 - neurokit install
-    - pip install neurokit2
+    - ```pip install neurokit2```
 
 ################### Work in Progress ###################
 Table of contents
