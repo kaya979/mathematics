@@ -1,16 +1,22 @@
 # Python Math plots
 
-Titles and internal titles
+Kaya's wonderful journey towards the stars: 
+A tale of those who stood up again after falling in muddy pools of disgrace.
 
-## Introduction - the project's aim
+## Introduction - The projects' aim
 
-The reason to make this project is to track my development in Mathematics and Astronomy using only Python, VSCode, and matplotlib module and lots of copy paste of other projects on the net. 
+The reason to make this project is to track development in Mathematics and Astronomy using VSCode, in Python, with modules like matplotlib, numpy and neurokit2. Together with inspirational copy paste's of other projects on the net. 
+Another reason for this project is to try to emulate and follow the in the footsteps of the great mathematicians and astronomers and perhaps learn and co-develop in the fields of astro-science. 
+All in order to gain more understanding of the ultra-fine Scheme of the Universe, for the Pleasure of the Grand Designer.
 
 
-###Technologies
+## Technologies
 VSCode on a windows machines with WSL2 
-Python with matplotlib module
+Python with following modules: 
+matplotlib
 neurokit2
+numpy
+
 
 ## How to install stuff: 
 
@@ -18,7 +24,10 @@ neurokit2
 in terminal
 - check: ```python --version```
 - check: ```pip -V ```
+- installing matplotlib and numpy
 - ```pip install matplotlib```
+- ```pip install numpy```
+
 - check if installed correctly 
     - ```import matplotlib```
     - ```matplotlib.__version__```
