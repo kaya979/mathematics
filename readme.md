@@ -36,11 +36,29 @@ in terminal
     - ```pip install neurokit2```
 
 ################### Work in Progress ###################
+
 Table of contents
+
 Illustrations
+
 Scope of functionalities 
+
 Examples of use
+
 Project status 
+
 Sources
 - Googley
+- 
+
+
+- https://pypi.org/project/neurokit2/
+- https://levelup.gitconnected.com/mandelbrot-set-with-python-983e9fc47f56
+- https://github.com/neuropsychology/NeuroKit
+- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+- https://numpy.org/install/
+- https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+- https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
+- https://www.tutorialspoint.com/how-to-install-matplotlib-in-python
+- 
 Other information
